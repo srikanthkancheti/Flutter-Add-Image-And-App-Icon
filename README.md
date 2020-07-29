@@ -1,1 +1,9 @@
-# flutter_add_image_and_app_icon
+A new Flutter application.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
